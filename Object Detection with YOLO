@@ -1,0 +1,42 @@
+📌 Project: Basic Object Detection with YOLOv8
+
+This project is part of my basic exercises on OpenCV and Computer Vision.
+It demonstrates real-time object detection using the YOLOv8 model (yolov8.pt), capable of detecting persons and 80 COCO dataset classes (e.g., cars, chairs, bottles, etc.).
+
+🔹 Key Features
+
+Implemented YOLOv8 with Python and OpenCV
+
+Detects people and other objects from webcam/video/images
+
+Bounding boxes with labels and confidence scores
+
+Lightweight beginner project for practicing object detection
+
+🔹 Technologies Used
+
+Python 🐍
+
+OpenCV 🎥
+
+Ultralytics YOLOv8
+
+🔹 How to Run
+
+Clone the repository
+
+git clone https://github.com/yourusername/basic-yolo-object-detection.git
+cd basic-yolo-object-detection
+
+
+Install dependencies
+
+pip install ultralytics opencv-python
+
+
+Run detection
+
+python detect.py
+
+
+👉 This repo is mainly for learning and experimentation as I build my skills in computer vision and deep learning.
